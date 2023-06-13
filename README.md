@@ -1,2 +1,1 @@
-# gt-quick-start
-Test using graphite
+This repo is created with Graphite!
